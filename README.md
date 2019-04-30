@@ -6,3 +6,11 @@ The Journey of Learning Spring Boot, The various projects navigates through the 
 ```sh
     $ spring run app.groovy
 ```
+
+- **web-initializer** - Create Spring project from https://start.spring.io/
+```sh
+    $ spring run app.groovy
+```
+
+
+
