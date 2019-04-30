@@ -1,6 +1,6 @@
 # Spring Boot learning
 The Journey of Learning Spring Boot, The various projects navigates through the different aspects of Spring Boot.
-We use the default port, so the web output is rendered into localhost:8080
+We use the default port, so the web output is rendered into **localhost:8080**
 
 
 ## Examples
