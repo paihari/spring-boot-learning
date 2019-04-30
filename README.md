@@ -7,9 +7,9 @@ The Journey of Learning Spring Boot, The various projects navigates through the 
     $ spring run app.groovy
 ```
 
-- **web-initializer** - Create Spring project from https://start.spring.io/
+- **web-initializer** - Create Spring project from https://start.spring.io/, unzip the zip file and run maven command
 ```sh
-    $ spring run app.groovy
+    $ mvn clean install
 ```
 
 
