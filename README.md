@@ -20,6 +20,9 @@ The Executable jar can be found in `target` directory, navigate to `target`direc
 
 - **hello-world** - Simple Hello World Project, created from Idea IDE. `PostController` calls implements Hello World Output
 
+- **injection-demo** - Demonstrates how bean are created and used in the Sping Application. In this example Service annotated  `NotificationService`is created as service and injected into PostContoller. Simple Java bean `User`is marked as Spring bean in main application
+
+
 
 
 
