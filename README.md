@@ -4,6 +4,9 @@ We use the default port, so the web output is rendered into **localhost:8080**
 
 
 ## Examples
+
+### Fundamentals
+
 - **app.groovy** - Simple Spring Boot application, run using spring-cli
 ```sh
     $ spring run app.groovy
