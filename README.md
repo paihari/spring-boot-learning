@@ -11,6 +11,9 @@ The Journey of Learning Spring Boot, The various projects navigates through the 
 ```sh
     $ mvn clean install
 ```
+- **hello-world** - Simple Hello World Project, created from Idea IDE. `PostController` calls implements Hello World Output
+
+
 
 
 
