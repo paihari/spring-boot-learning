@@ -13,6 +13,11 @@ We use the default port, so the web output is rendered into **localhost:8080**
 ```sh
     $ mvn clean package
 ```
+The Executable jar can be found in `target` directory, navigate to `target`directory
+```sh
+    $ java -jar webinitializer-0.0.1-SNAPSHOT.jar
+```
+
 - **hello-world** - Simple Hello World Project, created from Idea IDE. `PostController` calls implements Hello World Output
 
 
