@@ -10,9 +10,12 @@ public class PageController {
     @Value("${pageController.msg}")
     private String pageControllerMsg;
 
+    @Value("${my.secret}")
+    private String randomLong;
+
     @RequestMapping("/")
     public String home() {
 
-        return pageControllerMsg;
+        return pageControllerMsg + " Random Long " + randomLong;
     }
 }
