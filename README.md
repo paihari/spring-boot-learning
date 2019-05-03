@@ -29,7 +29,7 @@ The Executable jar can be found in `target` directory, navigate to `target`direc
 
 - **configuration-properties** - Demonstrates how propetries can be wrapped in java bean, instead of sprinkling @Value annotation, the java class `MyAppConfig` is annotated with @ConfigurationProperties
 
-- **profile-example** - Demonstrates setting up different profiles using `spring.profiles.active`, Example also shows injection of beam depending on the active profile `DataSourceConfig`
+- **profile-example** - Demonstrates setting up different profiles using `spring.profiles.active`, Example also shows injection of bean depending on the active profile `DataSourceConfig`
 
 
 
