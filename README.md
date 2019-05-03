@@ -25,6 +25,10 @@ The Executable jar can be found in `target` directory, navigate to `target`direc
 
 - **injection-demo** - Demonstrates how bean are created and used in the Sping Application. In this example Service annotated  `NotificationService`is created as service and injected into PostContoller. Simple Java bean `User`is marked as Spring bean in main application
 
+- **external-config** - Demonstrates how propetries can be fetched from .propetries file and yaml files, and injecting the properties using @Value annotation
+
+
+
 
 
 
