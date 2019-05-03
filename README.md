@@ -32,6 +32,11 @@ The Executable jar can be found in `target` directory, navigate to `target`direc
 - **profile-example** - Demonstrates setting up different profiles using `spring.profiles.active`, Example also shows injection of bean depending on the active profile `DataSourceConfig`
 
 
+### Web Application
+
+
+
+
 
 
 
