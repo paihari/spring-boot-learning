@@ -27,6 +27,8 @@ The Executable jar can be found in `target` directory, navigate to `target`direc
 
 - **external-config** - Demonstrates how propetries can be fetched from .propetries file and yaml files, and injecting the properties using @Value annotation
 
+- **configuration-properties** - Demonstrates how propetries can be wrapped in java bean, instead of sprinkling @Value annotation, the java class `MyAppConfig` is annotated with @ConfigurationProperties
+
 
 
 
