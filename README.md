@@ -34,6 +34,9 @@ The Executable jar can be found in `target` directory, navigate to `target`direc
 
 ### Web Application
 
+- **hello-web** - Simple MVC application. Just place the `index.html` in static resources, Due to enabled auto configuration, the web page is rendered.
+
+
 
 
 
