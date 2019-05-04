@@ -38,6 +38,8 @@ The Executable jar can be found in `target` directory, navigate to `target`direc
 
 - **static-content** - Usage of Stylesheets. And also use of `webjars` for webside library management
 
+- **thymeleaf-demo** - Templates for Web Development, using thymeleaf, page designers and UI developers can collaborate seemlessly. Include the thymeleaf libs in pom and include namespace xmlns:th="http://www.thymleaf.org" 
+
 
 
 
