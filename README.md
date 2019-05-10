@@ -42,6 +42,10 @@ The Executable jar can be found in `target` directory, navigate to `target`direc
 
 - **error-demo** - Demonstrates effectively handling /error and 404 type error situation
 
+- **exception-demo** - Demonstrates how exceptions are handled at Controller level by the use of `@ExceptionHandler`, Second example demonstrates how Exceptions can be handled globally. with the specific class `ExceptionControllerAdvice`
+
+
+
 
 
 
