@@ -46,11 +46,16 @@ The Executable jar can be found in `target` directory, navigate to `target`direc
 
 ### Data Access 
 
- - **h2-demo** - By including h2 in spring initializer and specifying `spring.h2.console.enabled=true`and `spring.h2.console.path` login to h2 console is possible through browser. 
+ - **h2-demo** - Demonstrates the below features
+ 
+     By including h2 in spring initializer and specifying `spring.h2.console.enabled=true`and `spring.h2.console.path` login to h2 console is possible through browser
  
      The example also shows the JPA entity creation and automatic creation of tables during application start.
  
      In Advanced section, instead of old school methods used for CRUD in database, example shows use of Spring data JPA Repository
+     
+     Loading of data during application 
+     
  
  
 
