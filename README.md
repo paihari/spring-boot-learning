@@ -54,9 +54,16 @@ The Executable jar can be found in `target` directory, navigate to `target`direc
  
      3. In Advanced section, instead of old school methods used for CRUD in database, example shows use of Spring data JPA Repository
      
-     4. Loading of data during application( SQL File and Programatically)
+     4. Loading of data during application start through  SQL file by mentioning `spring.datasource.platform=h2`and placing the sql files in resources. 
+     5. Loading data during application start programatically, `DataLoader`is the service which loads data to database
      
+     
+ - **blogger-demo** - Demonstrates the below features 
  
+      1. Simple way to create different query methods and stitch to the data service, `HomeController`
+      2. `PostController`demonstrates fetching list of blog post, individual post, use of layout for GUI
+      
+      
  
 
 
