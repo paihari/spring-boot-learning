@@ -62,6 +62,7 @@ The Executable jar can be found in `target` directory, navigate to `target`direc
  
       1. Simple way to create different query methods and stitch to the data service, `HomeController`
       2. `PostController`demonstrates fetching list of blog post, individual post, use of layout for GUI
+      3. Production Profile demonstrates connecting to AWS RDS MySQL Database and fetching the data
       
       
  
