@@ -66,6 +66,15 @@ The Executable jar can be found in `target` directory, navigate to `target`direc
  
  - **jdbc-demo** - Demonstrates the JDBC demo, with native SQL
  
+ - **mangodb-demo** - Its mangotime, so it is Mango. Demonstrates how to CRUD MongoDB
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
       
       
