@@ -71,6 +71,8 @@ The Executable jar can be found in `target` directory, navigate to `target`direc
  
 ### Spring Security
 
+- **security-demo** - Simple Security demonstration, select security and web in spring initializer and basic security is put in place(user: user, password: <from console>)
+    
  
  
  
