@@ -58,11 +58,16 @@ The Executable jar can be found in `target` directory, navigate to `target`direc
      5. Loading data during application start programatically, `DataLoader`is the service which loads data to database
      
      
- - **blogger-demo** - Demonstrates the below features 
+ - **blogger-demo** - Demonstrates the below features with JPA
  
       1. Simple way to create different query methods and stitch to the data service, `HomeController`
       2. `PostController`demonstrates fetching list of blog post, individual post, use of layout for GUI
       3. Production Profile demonstrates connecting to AWS RDS MySQL Database and fetching the data
+ 
+ - **jdbc-demo** - Demonstrates the JDBC demo, with native SQL
+ 
+ 
+      
       
       
  
