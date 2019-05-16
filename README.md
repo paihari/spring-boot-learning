@@ -77,7 +77,9 @@ The Executable jar can be found in `target` directory, navigate to `target`direc
 
 - **securitycustom-demo** - Demonstrates loading of the Security configuration at load time, refer to `SecurityConfig`class
 
-- **securityjpa-demo** - Demonstartes the user authentication loadaed through mySQL database withe user of  ` Authentication Manager Builder` and `UserDetailService`
+- **securityjpa-demo** - Demonstartes the user authentication loadaed through mySQL database withe user of  ` Authentication Manager Builder` , `UserDetailService` and `SecurityConfig`
+
+
 
 
 
