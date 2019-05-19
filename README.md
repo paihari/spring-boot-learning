@@ -81,7 +81,7 @@ The Executable jar can be found in `target` directory, navigate to `target`direc
 
 ### Rest Spring
 
-- **reststarter-demo** - Simple CRUD implementation of REST services using JPA H2,  JPA repositoties and RestControllers.
+- **reststarter-demo** - Simple CRUD implementation of REST services nice and clean API using JPA H2,  JPA repositoties and RestControllers.
 For viewing/edit domain objects using Chrome Extensions: JSON Viewer, POSTMAN
 
 -- 
