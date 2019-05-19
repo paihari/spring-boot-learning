@@ -92,4 +92,8 @@ For viewing/edit domain objects using Chrome Extensions: JSON Viewer, POSTMAN
 
 - **resttemplate-consumer-demo** - Illustrates `RestTemplate` simple way to consume an REST Service
 
+### Scheduler
+
+- **gs-scheduling-tasks** Demonstrates the Scheduler from spring.io examples
+
 
