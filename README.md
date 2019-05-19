@@ -79,6 +79,13 @@ The Executable jar can be found in `target` directory, navigate to `target`direc
 
 - **db-security-demo** - Demonstartes the user authentication loadaed through mySQL database withe user of  ` Authentication Manager Builder` , `UserDetailService` and `SecurityConfig`. Entitlements are stored in AWS RDS MySQL Dev database
 
+### Rest Spring
+
+- **reststarter-demo** - Simple CRUD implementation of REST services nice and clean API using JPA H2,  JPA repositoties and RestControllers.
+For viewing/edit domain objects using Chrome Extensions: JSON Viewer, POSTMAN
+
+-- 
+
 
 
 
