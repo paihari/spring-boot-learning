@@ -1,9 +1,0 @@
-{
-	"temp" : "60",
-	"description" : "60 and cloudy",
-	"location": {
-		"city": "Cleveland",
-		"state" : "OH",
-		"country": "United States"
-	}
-}
