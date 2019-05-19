@@ -84,45 +84,10 @@ The Executable jar can be found in `target` directory, navigate to `target`direc
 - **reststarter-demo** - Simple CRUD implementation of REST services nice and clean API using JPA H2,  JPA repositoties and RestControllers.
 For viewing/edit domain objects using Chrome Extensions: JSON Viewer, POSTMAN
 
+
+- **resterror-demo** - Handling of Business Exception with `ÈxceptionHandler` annotation in Postcontroller
+
+
 -- 
-
-
-
-
-
-
-
-    
- 
- 
- 
- 
- 
- 
- 
- 
- 
-      
-      
-      
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
