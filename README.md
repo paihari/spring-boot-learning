@@ -90,6 +90,6 @@ For viewing/edit domain objects using Chrome Extensions: JSON Viewer, POSTMAN
 
 - **restdatahypermedia-demo** - The core library `spring-boot-starter-data-rest` contains MCV, HATEOAS, Jackson and restful standards like HAL, ALPS. The beauty of this is is it provides out of the box the CRUD rest services. Curl the path to get different options
 
-
+- **resttemplate-consumer-demo** - Illustrates `RestTemplate` simple way to consume an REST Service
 
 
